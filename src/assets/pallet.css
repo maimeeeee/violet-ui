@@ -1,0 +1,18 @@
+:root {
+  /* alpha */
+  --primary-a8: #9585cf14;
+  --primary-a25: #9585cf40;
+  --primary-a60: #9585cf99;
+  --secondary-a8: #94d21014;
+  --secondary-a25: #94d21040;
+  --secondary-a60: #94d21099;
+
+  /* token */
+  --bg-disabled: var(--primary-200);
+  --bg-interactive: var(--primary-500);
+  --bg: var(--primary-400);
+  --border: var(--primary-700);
+  --surface: var(--primary-200);
+  --text-secondary: var(--secondary-400);
+  --icon: var(--neutral-500);
+}
